@@ -1,0 +1,6 @@
+// DO NOT use this file directly.
+// Run:
+//   flutterfire configure
+// FlutterFire will generate lib/firebase_options.dart for your Firebase project.
+//
+// The generated file contains platform-specific Firebase configuration.
